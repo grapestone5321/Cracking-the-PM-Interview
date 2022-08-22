@@ -3,6 +3,27 @@ Cracking the PM Interview
 
 -----
 
+## CRACKING the PM INTERVIE
+
+https://www.crackingthepminterview.com/
+
+### Cracking the PM Interview: How to Land a Product Manager Job in Technology
+How many pizzas are delivered in Manhattan? How do you design an alarm clock for the blind? What is your favorite piece of software and why? How would you launch a video rental service in India? This book will teach you how to answer these questions and more. 
+
+Cracking the PM Interview is a comprehensive book on landing a product management role in startups or bigger tech companies. Learn how the ambiguously-named “PM” (product manager / program manager) role varies between companies, what experiences you need, how to make your existing experience translate, what a great PM resume and cover letter looks like, and then how to master the PM interview questions (estimation questions, behavioral questions, estimation questions, product questions, technical questions, and the super-important “pitch”).
+
+### Authored by Gayle Laakmann McDowell and Jackie Bavaro
+Gayle is the Founder / CEO of CareerCup.com and the author of two books: Cracking the Coding Interview, Amazon.com's #1 best-selling interview book, and The Google Resume. She has worked for Google, Microsoft, and Apple and served on Google's hiring committee. She holds a BSE and MSE in Computer Science from the University of Pennsylvania and an MBA from the Wharton School. Learn more.
+
+Jackie is a Product Manager at Asana, a leading startup that builds the modern productivity software used by companies like Dropbox, AirBnB, Uber, Foursquare, and Pinterest. She has previously worked as a Product Manager at Google where she joined as part of the elite Associate Product Manager program, and as a Program Manager at Microsoft. She holds a BA in Computer Science and a BA in Economics from Cornell University. Learn more.
+
+Both reside in the San Francisco Bay Area.
+
+
+
+
+-----
+
 # YouTube
 
 ## How to Nail the Product Manager Interview by Gayle McDowell
