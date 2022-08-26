@@ -54,3 +54,15 @@ Product leaders from local top tech companies visit Product School campuses each
 The Product Book has arrived! Learn how to become a great Product Manager. Get your copy here: http://amzn.to/2uJqg9A
 
 -----
+
+## Cracking the PM Interview
+
+an 29, 2014
+
+https://www.youtube.com/watch?v=CshJxTcsgvo&t=2613s
+
+
+Gayle Laakmann McDowell
+
+-----
+
