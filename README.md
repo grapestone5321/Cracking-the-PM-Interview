@@ -21,7 +21,10 @@ Jackie is a Product Manager at Asana, a leading startup that builds the modern p
 
 Both reside in the San Francisco Bay Area.
 
+### About the Book
+How many pizzas are delivered in Manhattan? How do you design an alarm clock for the blind? What is your favorite piece of software and why? How would you launch a video rental service in India? This book will teach you how to answer these questions and more. 
 
+Cracking the PM Interview is a comprehensive book on landing a product management role in startups or bigger tech companies. Learn how the ambiguously-named “PM” (product manager / program manager) role varies between companies, what experiences you need, how to make your existing experience translate, what a great PM resume and cover letter looks like, and then how to master the interview: estimation questions, behavioral questions, estimation questions, product questions, technical questions, and the super-important “pitch.”
 
 
 -----
