@@ -26,6 +26,11 @@ How many pizzas are delivered in Manhattan? How do you design an alarm clock for
 
 Cracking the PM Interview is a comprehensive book on landing a product management role in startups or bigger tech companies. Learn how the ambiguously-named “PM” (product manager / program manager) role varies between companies, what experiences you need, how to make your existing experience translate, what a great PM resume and cover letter looks like, and then how to master the interview: estimation questions, behavioral questions, estimation questions, product questions, technical questions, and the super-important “pitch.”
 
+### Also by Gayle and Jackie: Cracking the PM Career
+
+With Cracking the PM Interview focused on product management interviews, Cracking the PM Career focuses on thriving in the PM role.
+
+"Our goal for Cracking the PM Career is to be the guide we never had. This book shares the skills, frameworks, and practices that my peers and I have painstakingly learned and honed over the years so that PMs can spend less time reinventing the wheel. It delves into the mystery and ambiguity surrounding career progression so that PMs can focus on the right areas and reach their potential. It connects the dots on how to develop each important PM skill so that mentors can point their mentees towards actionable feedback."
 
 -----
 
