@@ -2,7 +2,6 @@
 Cracking the PM Interview
 
 
-
 -----
 
 ## CRACKING the PM INTERVIE
