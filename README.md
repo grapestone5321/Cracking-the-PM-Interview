@@ -75,3 +75,17 @@ Gayle Laakmann McDowell
 
 -----
 
+## Product Manager: The best job you never heard of
+
+Sep 10, 2019
+
+Jackie Bavaro
+
+Find out if you'd like being a PM and how to get an APM internship.
+
+See slides with speaker notes here: https://docs.google.com/presentation/d/1cHalDgL7LUlD32aVgmpOiMutn42Rjju2O98O0CHvcOU/edit#slide=id.gc6f919934_0_20
+
+Cracking the PM Interview: https://amzn.to/318Ck0X
+
+
+-----
