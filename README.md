@@ -34,12 +34,12 @@ With Cracking the PM Interview focused on product management interviews, Crackin
 
 -----
 
-### Cracking the PM Career
+## Cracking the PM Career
 
 ***OUR GOAL***
 
-IS FOR THIS BOOK TO BE
-THE GUIDE WE NEVER HAD
+### IS FOR THIS BOOK TO BE
+###THE GUIDE WE NEVER HAD
 This book shares the skills, frameworks, and practices that my peers and I have painstakingly learned and honed over the years so that PMs can spend less time reinventing the wheel. It delves into the mystery and ambiguity surrounding career progression so that PMs can focus on the right areas and reach their potential. It connects the dots on how to develop each important PM skill so that mentors can point their mentees towards actionable feedback.
 
 -----
