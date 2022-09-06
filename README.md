@@ -77,7 +77,7 @@ The Product Book has arrived! Learn how to become a great Product Manager. Get y
 
 ## Cracking the PM Interview
 
-an 29, 2014
+Jan 29, 2014
 
 https://www.youtube.com/watch?v=CshJxTcsgvo&t=2613s
 
